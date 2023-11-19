@@ -1,0 +1,4 @@
+senin = arsitektur dan organisasi komputer, aik 2
+selasa = pemrograman berorientasi objek
+rabu = kalkulus 2, sistem informasi
+jumat = komunikasi data, statistika dan probabilitas, struktur data dan algoritma
