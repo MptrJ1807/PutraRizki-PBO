@@ -1,0 +1,55 @@
+1. Jika ingin menjalankan program aplikasi ini, pertama tama pergi ke bagian file Dashboard, lalu klik menu login
+
+2. jika user belum membuat akun, maka buat akun terlebih dahulu dengan mengklik link daftar dibawah form sign in
+
+3. ketika sudah membuat akun (Username dan Password) maka kembali pada menu sign in, lalu login dengan username dan password
+yang sesuai dengan yang dibuat sebelumnya.
+
+4. jika sudah berhasil login, maka program aplikasi utama bernama Sewa properti Hajat akan muncul pada menu dashboard.
+(menu program aplikasi hanya akan muncul/tampil jika user sudah mendaftar username dan password, lalu login)
+
+5. jika sudah terbuka menu yang tersedia, klik saja pada menu yang tersedia, yakni menu Penyewaan.
+di dalam menu penyewaan, klik saja pada opsi program aplikasi yang tersedia. di sini tersedia berupa
+program aplikasi sewa properti hajat
+
+6. jika sudah membuka aplikasiNya, maka harap menunggu. dikarenakan program aplikasi ini menggunakan layanan database server,
+jadi butuh waktu untuk bisa membuka aplikasinya. jika sudah maka tampilan GUI aplikasi sewa properti hajat akan tampil.
+
+7. disitu user bisa menggunakan aplikasi tersebut sesuai kegunaanya.
+
+8. harap diingat sekali lagi!, dikarenakan program ini menggunakan layanan database server, makan umum terjadi
+berupa delay disaat membuat akun, login, membuka menu aplikasi sewa properti, dan menyimpan request inputan user pada
+aplikasi sewa properti, dan menampilkan output hasil request user di aplikasi sewa properti hajat berupa data rekap 
+user itu sendiri.
+
+9. jika penasaran dengan layanan database server yang digunakan, bisa kunjungin di situs ini :https://freedb.tech/login.html
+dan jika ingin melihat database dari program aplikasi ini, anda bisa login dengan akun berikut :
+
+login freeDB di link yang sudah diberikan di atas!
+
+Username : PutraRJ303
+Password : Pa5nan45161
+
+untuk detail panel database server yang digunakan pada program ini sebagai berikut :
+
+HOST : sql.freedb.tech
+PORT : 3306
+DATABASE NAME : freedb_PropertiHajat
+DATABASE USER : freedb_PutraRJ303
+PASSWORD : tc5PUE#@K@53?dy
+
+Lalu jika penasaran dengan susunan tabel tabel database program ini, ketika anda sudah login freeDB dan berhasil masuk di Dashboard freeDB
+maka langsung klik Icon Databse saja, lalu login dengan HOST, DATABASE USER, dan PASSWORD yang tersedia di atas!
+
+-------------------------------SEKIAN TERIMA KASIH | MUHAMMAD PUTRA RIZKI JULIANTO 220511080 TIF22C--------------------------------
+
+
+
+
+
+
+
+
+
+
+
